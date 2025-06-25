@@ -14,7 +14,7 @@ This model forecasts ramp-up events in the UK Power Market using real-time and h
 ### 📂 Repository Structure:
 
 - Below is the repository structure that outlines the core details of this project.
-- Raw data is obtained from the [National Grid ESO Data Portal](https://data.nationalgrideso.com) which provides demand forecasts and generation by fuel type to evaluate system demands and forecasting peak loads based on the time and day. The file formats are in CSV and are free to access for whoever views this README.md.
+- Raw data is obtained from the [National Energy System Operator (NESO)](https://www.neso.energy/data-portal/historic-demand-data) which provides historic demand forecasts and generation by fuel type to evaluate system demands and forecasting peak loads based on the time and day. The file formats are in CSV and are free to access for whoever views this README.md and you can access whichever set of data you prefer.
 
 ```
 
@@ -46,5 +46,4 @@ Ramp-Up-Predictive-Model/
 ```
 
 #### How to Run:
-
-:
+Downaload all the requirements
