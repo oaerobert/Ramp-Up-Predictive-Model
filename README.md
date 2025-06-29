@@ -1,6 +1,6 @@
 ## Ramp Up Predictive Model
 ### 📌Overview:
-This model forecasts ramp-up events in the UK Power Market using real-time and historical market signals.  A ramp-up(/down) or 'trip' is defined as a significant increase (or decrease) in the level of output of a company's products or services. The objective is to anticipate volatility in demand/supply to aid algorithmic trading decisions.
+ A ramp-up(/down) or 'trip' is defined as a significant increase (or decrease) in the level of output of a company's products or services. The objective of this model is to anticipate volatility in demand/supply to aid algorithmic trading decisions.
 
 ### 🧠 Key Concepts used within this project:
 - Machine Learning forecasting
