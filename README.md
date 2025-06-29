@@ -39,11 +39,22 @@ Ramp-Up-Predictive-Model/
 │ └── model_results/ # Metrics, confusion matrices etc.
 │
 ├── README.md
-├── requirements.txt
-├── .gitignore
-└── LICENSE (MIT)
 
-```
+### Requirements
 
-#### How to Run:
-Downaload all the requirements
+- Python 3.9+
+- pandas
+- numpy
+- scikit-learn
+- xgboost
+- matplotlib / seaborn
+- jupyter
+- pyyaml
+
+
+### How to run
+Run all the notebook's in VSCode or copy and paste the raw Python code found within this repository and their corresponding folders.
+
+
+
+
